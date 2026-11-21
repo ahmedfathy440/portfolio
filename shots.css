@@ -1,0 +1,4 @@
+/* Project screenshots: add at the end of styles.css */
+.projects-grid .project-card .project-visual.shot{height:auto!important;padding:0;aspect-ratio:8/5;background:#0b1623}
+.project-visual.shot img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease}
+.project-card:hover .project-visual.shot img{transform:scale(1.04)}
